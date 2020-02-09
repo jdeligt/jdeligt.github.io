@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## A first draft
 
-You can use the [editor on GitHub](https://github.com/jdeligt/jdeligt.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I've had too many personal websites/domains and things to maintain an overview of 'stuff I did'. It's time to bring it all together in one place. Here. Let's see how it goes and if we can bring it all together in a way that workd for me and the public.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### List of things I plan on having here
+  - Presentations
+  - CV
+  - Projects
+  - Datasets
+  - Blogs ??
+  - Conflicts of intrest
+  - _Usefull_ `code snippets`
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Placeholders
+I'm leaving these links here for the moment, they will probably come in handy later.
 
 ### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jdeligt/jdeligt.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The name of the theme is saved in the Jekyll `_config.yml` configuration file.
+### Documentation
+[Markdown](https://guides.github.com/features/mastering-markdown/)
+[Pages](https://help.github.com/categories/github-pages-basics/) 
