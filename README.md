@@ -1,6 +1,7 @@
 ## A first draft
 
-I've had too many personal websites/domains and things to maintain an overview of 'stuff I did'. It's time to bring it all together in one place. Here. Let's see how it goes and if we can bring it all together in a way that workd for me and the public.
+I've had too many personal websites/domains and things to maintain an overview of 'stuff I did'. It's time to bring it all together in one place. Here. 
+Let's see how it goes and if we can bring it all together in a way that works for me and you.
 
 ### List of things I plan on having here
   - Presentations
