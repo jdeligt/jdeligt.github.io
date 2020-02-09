@@ -4,7 +4,7 @@ I've had too many personal websites/domains and things to maintain an overview o
 Let's see how it goes and if we can bring it all together in a way that works for me and you.
 
 ### List of things I plan on having here
-  - [Presentations](https://jdeligt.github.io/presentations/)
+  - [Presentations](./presentations/)
   - CV
   - Projects
   - Datasets
