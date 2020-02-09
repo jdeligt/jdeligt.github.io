@@ -5,8 +5,8 @@ Let's see how it goes and if we can bring it all together in a way that works fo
 
 ### List of things I plan on having here
   - [Presentations](./presentations/)
-  - CV
-  - Projects
+  - [CV](./cv/)
+  - [Projects](./projects/)
   - Datasets
   - Blogs ??
   - Conflicts of intrest
