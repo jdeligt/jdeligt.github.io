@@ -10,11 +10,10 @@
 
 class: center, top, title-slide
 
-# Scalable Workflows and Reproducible Data Analysis *for Genomics*
+<h1> Scalable Workflows and Reproducible Data Analysis <br> *for Genomics* </h1>
+A CC-BY-4.0 [protocol](https://link.springer.com/protocol/10.1007/978-1-4939-9074-0_24)
 <p align="left">
-  A CC-BY-4.0 [protocol](https://link.springer.com/protocol/10.1007/978-1-4939-9074-0_24)<br>
-  <br>
-  <b><a href="http://jdeligt.github.io/">Joep de Ligt</a> PhD </b> <br>
+  <b><a href="http://jdeligt.github.io/">Joep de Ligt</a></b> PhD <br>
   Lead Bioinformatics | Pathogen & Human Genomics <br>
   Institute of Environmental Science and Research (ESR) <br>
   <br>
@@ -27,31 +26,62 @@ class: center, top, title-slide
 # The [authors](https://link.springer.com/protocol/10.1007/978-1-4939-9074-0_24#authorsandaffiliations)
 <img src="../images/SWaRDAfG_Authors.png" width="700" height="400" alt="Author list">
 
-**Conflicts of interests;** M. R. Crusoe is the creator of CWL
+**Conflicts of interests;**
+- M. R. Crusoe is the creator of CWL & I'm a bit of CWL / Guix fanboy
 ---
 
-# Foundations of a Reproducible Workflow
+# A Reproducible Workflow
+#### Cue cooking analogy
+| | |
+|-|-|
+| <b>Compute</b> | <b>Cooking</b> |
+| .highlight[<b>Data</b>] | Ingredients|
+| | |
+| .highlight[<b>Tools</b>] | Appliances |
+| | |
+| .highlight[<b>Settings</b>] | Pounds or grams |
+<br>
 
-### Data
+<b>Preferably standardised;</b>
+ - format
+ - language
+ - size
+ - ..
 
-### Tools
-
-### Settings
+---
+# Example from EBI
+<img src="../images/graph.png" alt="Graph of a CWL workflow"> <br>
+- Workflow: https://github.com/EBI-Metagenomics/ebi-metagenomics-cwl/
+- Image: https://view.commonwl.org/
+- [Full URL](https://view.commonwl.org/workflows/github.com/proteinswebteam/ebi-metagenomics-cwl/blob/master/workflows/orf_prediction.cwl)
 
 ---
 
-# Making these Scaleable / Portable
-
-### Global identifiers
-
-### Complete depency stacks
-
-### 'Batching'
-
+# Scaleable and Portable
+#### Yet another cooking analogy
+| | |
+|-|-|
+| <b>Compute</b> | <b>Cooking</b> |
+| .highlight[<b>Global identifiers</b>] | Global Groceries inc. |
+| | |
+| .highlight[<b>Depency stack</b>] | Kitchen / house / .. |
+| | |
+| .highlight[<b>'Batching'</b>] | Kids 'helping' |
+<br>
 
 ---
 
-# Introduction
+# Example from Pjotr
+<img src="../images/cwltool-dependencies.svg?sanitize=true" alt="Graph of a dependecies for cwltool" height=200> <br>
+https://hpc.guix.info/blog/2019/01/creating-a-reproducible-workflow-with-cwl/
+
+| | |
+|-|-|
+| .highlight[<b>GNU Guix for dependecies</b>] | - From the kernel up <br> - Bit reproducible |
+| | |
+| .highlight[<b>IPFs for data</b>] | - Global namespace <br> - Content addressable |
+| | |
+| .highlight[<b>Batching not included</b>] | - Toil is a good example |
 
 ---
 class: top
@@ -62,7 +92,15 @@ class: top
 | Francesco Strozzi | Roel Janssen | Ricardo Wurmus |
 | Michael R. Crusoe | George Githinji | Paolo Di Tommaso |
 | Dominique Belhachemi | Steffen Möller | Geert Smant |
-**Pjotr Prins**
+| | | |
+.highlight[.large[Pjotr Prins]]
+<br>
+## E.highlight[/]S.highlight[/]R
+| | |
+|-|-|
+| Miles Benton | Hermes Perez |
+| Russell Smithies | Shane Sturrock |
+| Human Genomics team | Pathogen Genomics team |
 
 
     </textarea>

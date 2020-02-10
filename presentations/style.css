@@ -1,6 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Lato);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans);
-@import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,800,900);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,800);
+@import url(https://fonts.googleapis.com/css?family=Source+Code+Pro);
 
 body {
 	/* font-family: 'Droid Serif', 'Palatino Linotype', 'Book Antiqua', Palatino, 'Microsoft YaHei', 'Songti SC', serif;  */
@@ -9,12 +9,15 @@ body {
 
 h1 {
 	font-family: 'Lato', sans-serif;
-	font-weight: black;
+	font-weight: 900;
 }
 
 h2, h3, h4 {
 	font-family: 'Open Sans', sans-serif;
 	font-weight: bold;
+}
+h3 {
+	color: #00ADF0;
 }
 .remark-slide-content > h1:first-of-type {
   margin-top: 0px;
@@ -24,7 +27,16 @@ a, a > code {
   text-decoration: none;
 }
 b {
-	font-weight:900;
+	font-weight: 800;
+	font-size: 130%;
+}
+table, tr {
+	width: 100%;
+}
+
+.highlight {
+	color: #00ADF0;
+	font-weight: bold;
 }
 .footnote {
   position: absolute;
